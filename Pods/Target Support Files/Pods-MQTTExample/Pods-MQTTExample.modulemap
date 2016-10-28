@@ -1,0 +1,6 @@
+framework module Pods_MQTTExample {
+  umbrella header "Pods-MQTTExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
